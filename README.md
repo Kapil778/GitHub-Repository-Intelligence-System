@@ -190,7 +190,7 @@ The AI analyzes:
 
 | Contributors | Activity |
 |-------------|----------|
-| ![](Screenshots/dashboard3.png) | ![](Screenshots/dashboard4.png) |
+| ![](Screenshots/dashboard4.png) | ![](Screenshots/dashboard3.png) |
 
 ### 🤖 AI Repository Summary 
 
