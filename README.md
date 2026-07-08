@@ -247,6 +247,8 @@ GitHub: https://github.com/Kapil778
 
 Email: kapilsharma7798765@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/kapil-sharma-470aba338
+
 ---
 
 ## ⭐ Support
