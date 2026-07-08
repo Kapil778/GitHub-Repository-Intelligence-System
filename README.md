@@ -186,15 +186,15 @@ The AI analyzes:
 
 | Home | Dashboard |
 |------|-----------|
-| ![](screenshots/home.png) | ![](screenshots/dashboard1.png) |
+| ![](Screenshots/home.png) | ![](Screenshots/dashboard1.png) |
 
 | Contributors | Activity |
 |-------------|----------|
-| ![](screenshots/dashboard3.png) | ![](screenshots/dashboard4.png) |
+| ![](Screenshots/dashboard3.png) | ![](Screenshots/dashboard4.png) |
 
 ### 🤖 AI Repository Summary 
 
-![](screenshots/dashboard2.png)
+![](Screenshots/dashboard2.png)
 ---
 
 ## 🔮 Future Improvements
