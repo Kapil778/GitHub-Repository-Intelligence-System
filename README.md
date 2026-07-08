@@ -51,7 +51,7 @@ A full-stack web application that analyzes any public GitHub repository and pres
 
 ```
 GitHub-Repository-Intelligence-System
-│
+|
 ├── github-intelligence-frontend
 │   ├── src
 │   ├── public
@@ -182,20 +182,19 @@ The AI analyzes:
 
 ---
 
-## 📊 Screenshots
+## 📸 Screenshots
 
-### Home Page
+| Home | Dashboard |
+|------|-----------|
+| ![](screenshots/home.png) | ![](screenshots/dashboard1.png) |
 
-_Add screenshot here_
+| Contributors | Activity |
+|-------------|----------|
+| ![](screenshots/dashboard3.png) | ![](screenshots/dashboard4.png) |
 
-### Repository Dashboard
+### 🤖 AI Repository Summary 
 
-_Add screenshot here_
-
-### AI Summary
-
-_Add screenshot here_
-
+![](screenshots/dashboard2.png)
 ---
 
 ## 🔮 Future Improvements
